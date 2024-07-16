@@ -16,6 +16,10 @@ public class Greeter {
    // contructeur par défaut
   }
 
+ public void doSomething() {
+   // do nothing
+  }
+ 
  /**
  * @param someone name of a person
  * @return greeting string
